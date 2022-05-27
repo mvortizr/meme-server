@@ -1,0 +1,391 @@
+{
+  "nfts": [
+    1{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "71",
+      "block_number_minted": "10317615",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10574251",
+      "token_hash": "fb584e419071ad7c8ecafc05043ea3e7",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNzEiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1TdW5nbGFzc2VzJmNsb3RoZUNvbG9yPUhlYXRoZXImY2xvdGhlVHlwZT1CbGF6ZXJTaGlydCZleWVUeXBlPVNxdWludCZleWVicm93VHlwZT1TYWRDb25jZXJuZWROYXR1cmFsJmZhY2lhbEhhaXJDb2xvcj1QbGF0aW51bSZmYWNpYWxIYWlyVHlwZT1CbGFuayZoYWlyQ29sb3I9QXVidXJuJmhhdENvbG9yPVBhc3RlbFllbGxvdyZncmFwaGljVHlwZT1EZWVyJm1vdXRoVHlwZT1Ud2lua2xlJnNraW5Db2xvcj1ZZWxsb3cmdG9wVHlwZT1TaG9ydEhhaXJEcmVhZHMwMiJ9",
+      "metadata": {
+        "name": "PlatziPunks #71",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Sunglasses&clotheColor=Heather&clotheType=BlazerShirt&eyeType=Squint&eyebrowType=SadConcernedNatural&facialHairColor=Platinum&facialHairType=Blank&hairColor=Auburn&hatColor=PastelYellow&graphicType=Deer&mouthType=Twinkle&skinColor=Yellow&topType=ShortHairDreads02"
+      },
+      "synced_at": "2022-03-12T20:47:42.772Z"
+    },
+    2{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "72",
+      "block_number_minted": "10317616",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317616",
+      "token_hash": "eab31b8911fc754914fa7e3c7475ffac",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNzIiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1TdW5nbGFzc2VzJmNsb3RoZUNvbG9yPVJlZCZjbG90aGVUeXBlPUJsYXplclN3ZWF0ZXImZXllVHlwZT1XaW5rJmV5ZWJyb3dUeXBlPVJhaXNlZEV4Y2l0ZWQmZmFjaWFsSGFpckNvbG9yPVBsYXRpbnVtJmZhY2lhbEhhaXJUeXBlPUJlYXJkTWFnZXN0aWMmaGFpckNvbG9yPUJsYWNrJmhhdENvbG9yPUJsdWUwMSZncmFwaGljVHlwZT1EZWVyJm1vdXRoVHlwZT1HcmltYWNlJnNraW5Db2xvcj1ZZWxsb3cmdG9wVHlwZT1Mb25nSGFpckZyb0JhbmQifQ==",
+      "metadata": {
+        "name": "PlatziPunks #72",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Sunglasses&clotheColor=Red&clotheType=BlazerSweater&eyeType=Wink&eyebrowType=RaisedExcited&facialHairColor=Platinum&facialHairType=BeardMagestic&hairColor=Black&hatColor=Blue01&graphicType=Deer&mouthType=Grimace&skinColor=Yellow&topType=LongHairFroBand"
+      },
+      "synced_at": "2022-03-12T20:47:59.525Z"
+    },
+    3{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "70",
+      "block_number_minted": "10317612",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317612",
+      "token_hash": "b5f0117bd2ccc699b4adb976a6180c79",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNzAiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1CbGFuayZjbG90aGVDb2xvcj1QYXN0ZWxHcmVlbiZjbG90aGVUeXBlPUdyYXBoaWNTaGlydCZleWVUeXBlPVdpbmsmZXllYnJvd1R5cGU9U2FkQ29uY2VybmVkTmF0dXJhbCZmYWNpYWxIYWlyQ29sb3I9UGxhdGludW0mZmFjaWFsSGFpclR5cGU9QmVhcmRMaWdodCZoYWlyQ29sb3I9UmVkJmhhdENvbG9yPUJsdWUwMSZncmFwaGljVHlwZT1CYXQmbW91dGhUeXBlPUVhdGluZyZza2luQ29sb3I9RGFya0Jyb3duJnRvcFR5cGU9U2hvcnRIYWlyRHJlYWRzMDIifQ==",
+      "metadata": {
+        "name": "PlatziPunks #70",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Blank&clotheColor=PastelGreen&clotheType=GraphicShirt&eyeType=Wink&eyebrowType=SadConcernedNatural&facialHairColor=Platinum&facialHairType=BeardLight&hairColor=Red&hatColor=Blue01&graphicType=Bat&mouthType=Eating&skinColor=DarkBrown&topType=ShortHairDreads02"
+      },
+      "synced_at": "2022-03-12T20:47:01.653Z"
+    },
+    4{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "67",
+      "block_number_minted": "10317602",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317602",
+      "token_hash": "b467ee13c4def9d79994e8859069c261",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNjciLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1XYXlmYXJlcnMmY2xvdGhlQ29sb3I9UGFzdGVsWWVsbG93JmNsb3RoZVR5cGU9U2hpcnRWTmVjayZleWVUeXBlPUNsb3NlJmV5ZWJyb3dUeXBlPVJhaXNlZEV4Y2l0ZWQmZmFjaWFsSGFpckNvbG9yPUJsYWNrJmZhY2lhbEhhaXJUeXBlPU1vdXN0YWNoZUZhbmN5JmhhaXJDb2xvcj1QYXN0ZWxQaW5rJmhhdENvbG9yPVJlZCZncmFwaGljVHlwZT1Ib2xhJm1vdXRoVHlwZT1TZXJpb3VzJnNraW5Db2xvcj1QYWxlJnRvcFR5cGU9TG9uZ0hhaXJGcm8ifQ==",
+      "metadata": {
+        "name": "PlatziPunks #67",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Wayfarers&clotheColor=PastelYellow&clotheType=ShirtVNeck&eyeType=Close&eyebrowType=RaisedExcited&facialHairColor=Black&facialHairType=MoustacheFancy&hairColor=PastelPink&hatColor=Red&graphicType=Hola&mouthType=Serious&skinColor=Pale&topType=LongHairFro"
+      },
+      "synced_at": "2022-03-12T20:44:33.538Z"
+    },
+    5{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "66",
+      "block_number_minted": "10317600",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317600",
+      "token_hash": "aecd76def6aadea3a55284beefd7c4f4",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNjYiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1XYXlmYXJlcnMmY2xvdGhlQ29sb3I9Qmx1ZTAyJmNsb3RoZVR5cGU9U2hpcnRTY29vcE5lY2smZXllVHlwZT1IZWFydHMmZXllYnJvd1R5cGU9VW5pYnJvd05hdHVyYWwmZmFjaWFsSGFpckNvbG9yPUJyb3duJmZhY2lhbEhhaXJUeXBlPUJlYXJkTWVkaXVtJmhhaXJDb2xvcj1SZWQmaGF0Q29sb3I9R3JheTAyJmdyYXBoaWNUeXBlPUJlYXImbW91dGhUeXBlPVZvbWl0JnNraW5Db2xvcj1MaWdodCZ0b3BUeXBlPVdpbnRlckhhdDIifQ==",
+      "metadata": {
+        "name": "PlatziPunks #66",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Wayfarers&clotheColor=Blue02&clotheType=ShirtScoopNeck&eyeType=Hearts&eyebrowType=UnibrowNatural&facialHairColor=Brown&facialHairType=BeardMedium&hairColor=Red&hatColor=Gray02&graphicType=Bear&mouthType=Vomit&skinColor=Light&topType=WinterHat2"
+      },
+      "synced_at": "2022-03-12T20:43:56.905Z"
+    },
+    6{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "69",
+      "block_number_minted": "10317609",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317609",
+      "token_hash": "800200b05e3d5726243ab2a90fe29287",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNjkiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1CbGFuayZjbG90aGVDb2xvcj1QYXN0ZWxHcmVlbiZjbG90aGVUeXBlPU92ZXJhbGwmZXllVHlwZT1TcXVpbnQmZXllYnJvd1R5cGU9UmFpc2VkRXhjaXRlZE5hdHVyYWwmZmFjaWFsSGFpckNvbG9yPUJyb3duRGFyayZmYWNpYWxIYWlyVHlwZT1Nb3VzdGFjaGVNYWdudW0maGFpckNvbG9yPUF1YnVybiZoYXRDb2xvcj1QYXN0ZWxHcmVlbiZncmFwaGljVHlwZT1QaXp6YSZtb3V0aFR5cGU9U2VyaW91cyZza2luQ29sb3I9VGFubmVkJnRvcFR5cGU9TG9uZ0hhaXJGcm8ifQ==",
+      "metadata": {
+        "name": "PlatziPunks #69",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Blank&clotheColor=PastelGreen&clotheType=Overall&eyeType=Squint&eyebrowType=RaisedExcitedNatural&facialHairColor=BrownDark&facialHairType=MoustacheMagnum&hairColor=Auburn&hatColor=PastelGreen&graphicType=Pizza&mouthType=Serious&skinColor=Tanned&topType=LongHairFro"
+      },
+      "synced_at": "2022-03-12T20:46:30.127Z"
+    },
+    7{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "40",
+      "block_number_minted": "10244780",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10244780",
+      "token_hash": "6c247ec0935e0d7fbff885e3e4b4b3ec",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNDAiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1LdXJ0JmNsb3RoZUNvbG9yPUdyYXkwMiZjbG90aGVUeXBlPUdyYXBoaWNTaGlydCZleWVUeXBlPUV5ZVJvbGwmZXllYnJvd1R5cGU9VXBEb3duJmZhY2lhbEhhaXJDb2xvcj1QbGF0aW51bSZmYWNpYWxIYWlyVHlwZT1CZWFyZE1lZGl1bSZoYWlyQ29sb3I9QXVidXJuJmhhdENvbG9yPVBhc3RlbEdyZWVuJmdyYXBoaWNUeXBlPVJlc2lzdCZtb3V0aFR5cGU9Vm9taXQmc2tpbkNvbG9yPUJsYWNrJnRvcFR5cGU9U2hvcnRIYWlyVGhlQ2Flc2FyU2lkZVBhcnQifQ==",
+      "metadata": {
+        "name": "PlatziPunks #40",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Kurt&clotheColor=Gray02&clotheType=GraphicShirt&eyeType=EyeRoll&eyebrowType=UpDown&facialHairColor=Platinum&facialHairType=BeardMedium&hairColor=Auburn&hatColor=PastelGreen&graphicType=Resist&mouthType=Vomit&skinColor=Black&topType=ShortHairTheCaesarSidePart"
+      },
+      "synced_at": "2022-02-28T03:33:08.692Z"
+    },
+    8{
+      "token_address": "0xa71803d2aa721e796dfc9d42e7360df9d2d67105",
+      "token_id": "0",
+      "block_number_minted": "10236325",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10236325",
+      "token_hash": "68c638c030028317bae1dbd02972fba3",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjMCIsICJkZXNjcmlwdGlvbiI6ICJQbGF0emkgUHVua3MgYXJlIHJhbmRvbWl6ZWQgQXZhdGFhYXJzIHN0b3JlZCBvbiBjaGFpbiB0byB0ZWFjaCBEQXBwIGRldmVsb3BtZW50IG9uIFBsYXR6aSIsICJpbWFnZSI6ICJodHRwczovL2F2YXRhYWFycy5pby8/YWNjZXNzb3JpZXNUeXBlPUJsYW5rJmNsb3RoZUNvbG9yPUJsdWUwMyZjbG90aGVUeXBlPUJsYXplclNoaXJ0JmV5ZVR5cGU9U2lkZSZleWVicm93VHlwZT1EZWZhdWx0JmZhY2lhbEhhaXJDb2xvcj1Ccm93biZmYWNpYWxIYWlyVHlwZT1CZWFyZExpZ2h0JmhhaXJDb2xvcj1CbG9uZGVHb2xkZW4maGF0Q29sb3I9UGFzdGVsT3JhbmdlJmdyYXBoaWNUeXBlPVNlbGVuYSZtb3V0aFR5cGU9RWF0aW5nJnNraW5Db2xvcj1MaWdodCZ0b3BUeXBlPUxvbmdIYWlyTm90VG9vTG9uZyJ9",
+      "metadata": {
+        "name": "PlatziPunks #0",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Blank&clotheColor=Blue03&clotheType=BlazerShirt&eyeType=Side&eyebrowType=Default&facialHairColor=Brown&facialHairType=BeardLight&hairColor=BlondeGolden&hatColor=PastelOrange&graphicType=Selena&mouthType=Eating&skinColor=Light&topType=LongHairNotTooLong"
+      },
+      "synced_at": "2022-02-26T16:15:13.328Z"
+    },
+    9{
+      "token_address": "0x422498e6bbc7e0cf5a72755efbdeac38a47c4885",
+      "token_id": "1",
+      "block_number_minted": "10526718",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10526718",
+      "token_hash": "24b041af78cfac4e1f236c8d2ff32d21",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "https://www.arweave.net/m7hfMgZYOTG9photBTgGT-0ZJpxxLCOwjXu-SiMhQ0Q",
+      "metadata": {
+        "name": "Test",
+        "external_url": "https://hi.com",
+        "description": "A description",
+        "image": "https://www.arweave.net/exu8hNkaJkhp6LEB3NR5edvBQlgY6OuuTFG6jrVd5ww"
+      },
+      "synced_at": "2022-04-18T16:40:26.308Z"
+    },
+    10{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "68",
+      "block_number_minted": "10317606",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10317606",
+      "token_hash": "179abb26d27ae7121c851ceb1a3df61c",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjNjgiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1Sb3VuZCZjbG90aGVDb2xvcj1CbGFjayZjbG90aGVUeXBlPUhvb2RpZSZleWVUeXBlPVdpbmsmZXllYnJvd1R5cGU9U2FkQ29uY2VybmVkJmZhY2lhbEhhaXJDb2xvcj1CbGFjayZmYWNpYWxIYWlyVHlwZT1CbGFuayZoYWlyQ29sb3I9UmVkJmhhdENvbG9yPVBhc3RlbFJlZCZncmFwaGljVHlwZT1SZXNpc3QmbW91dGhUeXBlPVRvbmd1ZSZza2luQ29sb3I9WWVsbG93JnRvcFR5cGU9U2hvcnRIYWlyU2hvcnRGbGF0In0=",
+      "metadata": {
+        "name": "PlatziPunks #68",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Round&clotheColor=Black&clotheType=Hoodie&eyeType=Wink&eyebrowType=SadConcerned&facialHairColor=Black&facialHairType=Blank&hairColor=Red&hatColor=PastelRed&graphicType=Resist&mouthType=Tongue&skinColor=Yellow&topType=ShortHairShortFlat"
+      },
+      "synced_at": "2022-03-12T20:45:40.426Z"
+    },
+    11{
+      "token_address": "0xa71803d2aa721e796dfc9d42e7360df9d2d67105",
+      "token_id": "1",
+      "block_number_minted": "10236435",
+      "owner_of": "0x3e8e97b0a4215ed4e4a79438e3dcb3a2f15e6455",
+      "block_number": "10236435",
+      "token_hash": "042818c07ee66f5d6fc736872573b561",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjMSIsICJkZXNjcmlwdGlvbiI6ICJQbGF0emkgUHVua3MgYXJlIHJhbmRvbWl6ZWQgQXZhdGFhYXJzIHN0b3JlZCBvbiBjaGFpbiB0byB0ZWFjaCBEQXBwIGRldmVsb3BtZW50IG9uIFBsYXR6aSIsICJpbWFnZSI6ICJodHRwczovL2F2YXRhYWFycy5pby8/YWNjZXNzb3JpZXNUeXBlPVJvdW5kJmNsb3RoZUNvbG9yPUJsdWUwMyZjbG90aGVUeXBlPUJsYXplclN3ZWF0ZXImZXllVHlwZT1TdXJwcmlzZWQmZXllYnJvd1R5cGU9U2FkQ29uY2VybmVkJmZhY2lhbEhhaXJDb2xvcj1SZWQmZmFjaWFsSGFpclR5cGU9QmVhcmRMaWdodCZoYWlyQ29sb3I9QmxvbmRlJmhhdENvbG9yPUdyYXkwMSZncmFwaGljVHlwZT1Ta3VsbCZtb3V0aFR5cGU9U2FkJnNraW5Db2xvcj1UYW5uZWQmdG9wVHlwZT1Mb25nSGFpckN1cmx5In0=",
+      "metadata": {
+        "name": "PlatziPunks #1",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Round&clotheColor=Blue03&clotheType=BlazerSweater&eyeType=Surprised&eyebrowType=SadConcerned&facialHairColor=Red&facialHairType=BeardLight&hairColor=Blonde&hatColor=Gray01&graphicType=Skull&mouthType=Sad&skinColor=Tanned&topType=LongHairCurly"
+      },
+      "synced_at": "2022-02-26T16:42:39.235Z"
+    },
+    12{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "5",
+      "block_number_minted": "10515600",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574335",
+      "token_hash": "f2271e67737d52c6d95cac7cf3cddfaa",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://http://www.localhost:1984/x8m4lrOtxTe8X4mROZzyf476NdZahB1Gb8wwFW_O9y4",
+      "metadata": null,
+      "synced_at": "2022-04-16T18:10:27.884Z"
+    },
+    13{
+      "token_address": "0x8ab8f7cc548e8d6f96a9e85bdcd71932963602c2",
+      "token_id": "0",
+      "block_number_minted": "10388863",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574344",
+      "token_hash": "eb3b4f54a6c43eb784f1af8f15fa8c7f",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://www.prueba.com",
+      "metadata": null,
+      "synced_at": "2022-03-25T15:34:05.364Z"
+    },
+    15{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "82",
+      "block_number_minted": "10462564",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10462564",
+      "token_hash": "eae2998bd4749465a79071712a4cef97",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjODIiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1XYXlmYXJlcnMmY2xvdGhlQ29sb3I9UGluayZjbG90aGVUeXBlPVNoaXJ0Q3Jld05lY2smZXllVHlwZT1IYXBweSZleWVicm93VHlwZT1EZWZhdWx0JmZhY2lhbEhhaXJDb2xvcj1SZWQmZmFjaWFsSGFpclR5cGU9TW91c3RhY2hlRmFuY3kmaGFpckNvbG9yPUF1YnVybiZoYXRDb2xvcj1IZWF0aGVyJmdyYXBoaWNUeXBlPUJlYXImbW91dGhUeXBlPVNjcmVhbU9wZW4mc2tpbkNvbG9yPUJsYWNrJnRvcFR5cGU9U2hvcnRIYWlyRnJpenpsZSJ9",
+      "metadata": {
+        "name": "PlatziPunks #82",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Wayfarers&clotheColor=Pink&clotheType=ShirtCrewNeck&eyeType=Happy&eyebrowType=Default&facialHairColor=Red&facialHairType=MoustacheFancy&hairColor=Auburn&hatColor=Heather&graphicType=Bear&mouthType=ScreamOpen&skinColor=Black&topType=ShortHairFrizzle"
+      },
+      "synced_at": "2022-04-07T11:18:45.345Z"
+    },
+    15{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "2",
+      "block_number_minted": "10515074",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10578090",
+      "token_hash": "ce9c2856913ab63348a444edb04be89f",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://https://www.arweave.net/3HLrpGwu3JZ7AT4lAR7lG4WAUzoh0J0wldVaO1g7qBs",
+      "metadata": null,
+      "synced_at": "2022-04-16T15:58:27.475Z"
+    },
+    16{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "1",
+      "block_number_minted": "10515062",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574354",
+      "token_hash": "a6747c9459a5f1af68d6e9dd8a3d55c1",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://https://opensea-creatures-api.herokuapp.com/api/creature/3",
+      "metadata": null,
+      "synced_at": "2022-04-16T15:55:37.728Z"
+    },
+    17{
+      "token_address": "0xb1f8d93c24229e5891e7d72087f97addfc026042",
+      "token_id": "0",
+      "block_number_minted": "10389107",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574362",
+      "token_hash": "a0678b3e6c05064dbf0deb1e3657461b",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://abcdehash",
+      "metadata": null,
+      "synced_at": "2022-03-25T16:35:10.557Z"
+    },
+    18{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "81",
+      "block_number_minted": "10462562",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10462562",
+      "token_hash": "66f8a2aa9507aa418202e5280d4a8589",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjODEiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1Sb3VuZCZjbG90aGVDb2xvcj1QYXN0ZWxPcmFuZ2UmY2xvdGhlVHlwZT1Db2xsYXJTd2VhdGVyJmV5ZVR5cGU9V2luayZleWVicm93VHlwZT1TYWRDb25jZXJuZWROYXR1cmFsJmZhY2lhbEhhaXJDb2xvcj1BdWJ1cm4mZmFjaWFsSGFpclR5cGU9TW91c3RhY2hlTWFnbnVtJmhhaXJDb2xvcj1CbGFjayZoYXRDb2xvcj1QaW5rJmdyYXBoaWNUeXBlPURpYW1vbmQmbW91dGhUeXBlPVNjcmVhbU9wZW4mc2tpbkNvbG9yPUJyb3duJnRvcFR5cGU9U2hvcnRIYWlyRnJpenpsZSJ9",
+      "metadata": {
+        "name": "PlatziPunks #81",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Round&clotheColor=PastelOrange&clotheType=CollarSweater&eyeType=Wink&eyebrowType=SadConcernedNatural&facialHairColor=Auburn&facialHairType=MoustacheMagnum&hairColor=Black&hatColor=Pink&graphicType=Diamond&mouthType=ScreamOpen&skinColor=Brown&topType=ShortHairFrizzle"
+      },
+      "synced_at": "2022-04-07T11:18:09.989Z"
+    },
+    19{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "6",
+      "block_number_minted": "10515605",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574384",
+      "token_hash": "5a89652e7d8e10d6ec9cbfb02a0edaf5",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://http://www.localhost:1984/WPAW7LkCP-by25EDriCOHiPazfyj8Jf9p2ExAUrU6tQ",
+      "metadata": null,
+      "synced_at": "2022-04-16T18:11:34.286Z"
+    },
+    20{
+      "token_address": "0x0c5f4b37b32993f7923569c1a7605c3a67ca6bc9",
+      "token_id": "83",
+      "block_number_minted": "10462566",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10462566",
+      "token_hash": "3dfaca754501e5277f13e4745e2d199b",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "PlatziPunks",
+      "symbol": "PLPKS",
+      "token_uri": "data:application/json;base64,eyAibmFtZSI6ICJQbGF0emlQdW5rcyAjODMiLCAiZGVzY3JpcHRpb24iOiAiUGxhdHppIFB1bmtzIGFyZSByYW5kb21pemVkIEF2YXRhYWFycyBzdG9yZWQgb24gY2hhaW4gdG8gdGVhY2ggREFwcCBkZXZlbG9wbWVudCBvbiBQbGF0emkiLCAiaW1hZ2UiOiAiaHR0cHM6Ly9hdmF0YWFhcnMuaW8vP2FjY2Vzc29yaWVzVHlwZT1LdXJ0JmNsb3RoZUNvbG9yPUdyYXkwMSZjbG90aGVUeXBlPUhvb2RpZSZleWVUeXBlPUhhcHB5JmV5ZWJyb3dUeXBlPVVwRG93biZmYWNpYWxIYWlyQ29sb3I9QXVidXJuJmZhY2lhbEhhaXJUeXBlPUJlYXJkTWVkaXVtJmhhaXJDb2xvcj1BdWJ1cm4maGF0Q29sb3I9UGFzdGVsQmx1ZSZncmFwaGljVHlwZT1TZWxlbmEmbW91dGhUeXBlPVR3aW5rbGUmc2tpbkNvbG9yPUJsYWNrJnRvcFR5cGU9TG9uZ0hhaXJTdHJhaWdodDIifQ==",
+      "metadata": {
+        "name": "PlatziPunks #83",
+        "description": "Platzi Punks are randomized Avataaars stored on chain to teach DApp development on Platzi",
+        "image": "https://avataaars.io/?accessoriesType=Kurt&clotheColor=Gray01&clotheType=Hoodie&eyeType=Happy&eyebrowType=UpDown&facialHairColor=Auburn&facialHairType=BeardMedium&hairColor=Auburn&hatColor=PastelBlue&graphicType=Selena&mouthType=Twinkle&skinColor=Black&topType=LongHairStraight2"
+      },
+      "synced_at": "2022-04-07T11:19:07.883Z"
+    },
+    21{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "4",
+      "block_number_minted": "10515585",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574387",
+      "token_hash": "276e82e2400871be47d4cef02fb377b6",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://http://www.localhost:1984/24WV_hLTVEpSEhCRoEMilwETHci2FgCAmcpqZYkiT_I",
+      "metadata": null,
+      "synced_at": "2022-04-16T18:06:34.582Z"
+    },
+    22{
+      "token_address": "0x8e7484ce16694c60338036981af131995b324a2a",
+      "token_id": "0",
+      "block_number_minted": "10511215",
+      "owner_of": "0x12d5fbf4dc71d96d6f9bd4c2e80e958a31df8622",
+      "block_number": "10574390",
+      "token_hash": "064256751be24225df32323a79a712fe",
+      "amount": "1",
+      "contract_type": "ERC721",
+      "name": "TradelayerEthNFT",
+      "symbol": "TRADE",
+      "token_uri": "arweave://https://opensea-creatures-api.herokuapp.com/api/creature/3",
+      "metadata": null,
+      "synced_at": "2022-04-15T23:55:44.937Z"
+    }
+  ]
+}

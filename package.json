@@ -1,0 +1,88 @@
+{
+  "name": "meme-server",
+  "version": "0.0.1",
+  "description": "Backend for Memewallet",
+  "license": "UNLICENSED",
+  "main": "src/server.js",
+  "files": [
+    "dist/**/*.js"
+  ],
+  "engines": {
+    "npm": "8.0.0",
+    "node": "16.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ogreckoner/meme-server.git"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js --no-color",
+    "compile": "yarn hardhat compile",
+    "test:endpoints": "cross-env NODE_ENV=test jest --runInBand --silent=true",
+    "test:contracts": "yarn hardhat test",
+    "start:node": "yarn hardhat node",
+    "deploy:localhost": "yarn hardhat run ethereum/scripts/deploy.js --network localhost",
+    "deploy:justNFTMarketplace": "yarn hardhat run ethereum/scripts/deployMarketplace.js --network rinkeby",
+    "deploy:rinkeby": "yarn hardhat run ethereum/scripts/deploy.js --network rinkeby",
+    "flatten:NFTMarketplace": "yarn hardhat flatten ethereum/contracts/NFTMarketplace.sol > ethereum/flattened_contracts/NFTMarketplaceFlattened.sol",
+    "flatten:TradelayerEthNFT": "yarn hardhat flatten ethereum/contracts/TradelayerEthNFT.sol > ethereum/flattened_contracts/TradelayerEthNFTFlattened.sol"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "arweave": "^1.10.23",
+    "aws-sdk": "^2.903.0",
+    "axios": "^0.21.4",
+    "ccxt": "^1.51.5",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.11.0",
+    "https": "^1.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "moralis": "^1.5.9",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.12",
+    "pbkdf2": "^3.1.2",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "sequelize": "^6.8.0",
+    "sequelize-mock": "^0.10.2",
+    "supertest": "^6.2.2",
+    "uuid": "^8.3.2",
+    "ws": "^7.5.3"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "babel-eslint": "^8.2.6",
+    "chai": "^4.3.6",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^21.22.0",
+    "eslint-plugin-jsdoc": "^3.8.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.6.1",
+    "hardhat": "^2.9.1",
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "verbose": true,
+    "testURL": "http://localhost/",
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "/ethereum/",
+      "/deployment_scripts"
+    ]
+  }
+}
